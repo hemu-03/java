@@ -6,7 +6,7 @@ class dowhle{
     Scanner sc = new Scanner(System.in);
     System.out.println("enter he limit");
     int n=sc.nextInt();
-     /*                          while(SUM
+     /*               while(SUM*/
     int sum=0;
     int i=0;
     while (i<=n) {
@@ -16,7 +16,7 @@ class dowhle{
      System.out.println(sum);
 
     }
-    */
+    
    
     }
-}
+
